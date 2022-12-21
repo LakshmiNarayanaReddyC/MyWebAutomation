@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 10.711 s <<< FAILURE! - in TestSuite
+launchURL(TestCases.LoginTestcases)  Time elapsed: 0.093 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "java.util.Properties.getProperty(String)" because "TestCases.LoginTestcases.prop" is null
+	at TestCases.LoginTestcases.launchURL(LoginTestcases.java:23)
+
+validate_loginpage(TestCases.LoginTestcases)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "ModulePages.LoginScreen_Locators.userName()" because "this.loginPage" is null
+	at TestCases.LoginTestcases.validate_loginpage(LoginTestcases.java:39)
+

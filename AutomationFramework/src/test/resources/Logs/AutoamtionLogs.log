@@ -1,0 +1,102 @@
+2022-12-20 15:41:58 INFO  LoginTestcases:69 - ChromeBrowser Launched
+2022-12-20 15:42:00 INFO  LoginTestcases:22 - URL Launched
+2022-12-20 15:42:00 INFO  LoginTestcases:49 - Enter invalid username
+2022-12-20 15:42:00 INFO  LoginScreen_Locators:43 - Entering the invalid username
+2022-12-20 15:42:02 INFO  LoginTestcases:52 - Enter valid password
+2022-12-20 15:42:02 INFO  LoginScreen_Locators:51 - Password textbox
+2022-12-20 15:42:04 INFO  LoginTestcases:55 - Click on login button
+2022-12-20 15:42:04 INFO  LoginScreen_Locators:66 - click on login button
+2022-12-20 15:42:04 INFO  LoginScreen_Locators:72 - Error message should be displayed
+2022-12-20 15:42:04 INFO  LoginScreen_Locators:77 - Epic sadface: Username and password do not match any user in this service
+2022-12-20 15:42:04 INFO  LoginTestcases:71 - Enter valid username
+2022-12-20 15:42:04 INFO  LoginScreen_Locators:35 - Username Textbox
+2022-12-20 15:42:06 INFO  LoginTestcases:74 - Enter invalid password
+2022-12-20 15:42:06 INFO  LoginScreen_Locators:59 - Entering the invalid password
+2022-12-20 15:42:08 INFO  LoginTestcases:77 - Click on login button
+2022-12-20 15:42:08 INFO  LoginScreen_Locators:66 - click on login button
+2022-12-20 15:42:08 INFO  LoginScreen_Locators:72 - Error message should be displayed
+2022-12-20 15:42:08 INFO  LoginScreen_Locators:77 - Epic sadface: Username and password do not match any user in this service
+2022-12-20 15:42:08 INFO  LoginTestcases:34 - Enter valid username
+2022-12-20 15:42:08 INFO  LoginScreen_Locators:35 - Username Textbox
+2022-12-20 15:42:08 INFO  LoginTestcases:36 - Enter valid password
+2022-12-20 15:42:08 INFO  LoginScreen_Locators:51 - Password textbox
+2022-12-20 15:42:08 INFO  LoginTestcases:38 - Click on login button
+2022-12-20 15:42:09 INFO  LoginScreen_Locators:66 - click on login button
+2022-12-20 15:42:09 INFO  LoginTestcases:93 - https://www.saucedemo.com/inventory.html
+2022-12-20 15:42:09 INFO  LoginTestcases:95 - https://www.saucedemo.com/inventory.html
+2022-12-20 15:42:09 INFO  LoginTestcases:97 - Both are same so testclass passed
+2022-12-20 15:42:09 INFO  InventoryTestcases:20 - Inventory Test started
+2022-12-20 15:42:09 INFO  InventoryScreen_Locators:47 - clicked on bags
+2022-12-20 15:42:09 INFO  InventoryTestcases:22 - click on backpack item
+2022-12-20 15:42:11 INFO  InventoryScreen_Locators:53 - Item add to cart
+2022-12-20 15:42:13 INFO  InventoryScreen_Locators:59 - Goback to the products page
+2022-12-20 15:42:13 INFO  InventoryTestcases:28 - goback to the products page
+2022-12-20 15:42:15 INFO  InventoryScreen_Locators:65 - click on the T-Shirt
+2022-12-20 15:42:15 INFO  InventoryTestcases:39 - click on T-Shirt item
+2022-12-20 15:42:17 INFO  InventoryScreen_Locators:71 - click on the T-Shirt cart
+2022-12-20 15:42:19 INFO  InventoryScreen_Locators:77 - click on the cart icon
+2022-12-20 15:42:21 INFO  InventoryTestcases:53 - Click on Cart Icon
+2022-12-20 15:42:21 INFO  InventoryScreen_Locators:83 - Click on the checkout button
+2022-12-20 15:42:23 INFO  InventoryScreen_Locators:90 - Enter the firstname as Swamy
+2022-12-20 15:42:23 INFO  InventoryScreen_Locators:93 - Enter the lastname is Chittidi
+2022-12-20 15:42:23 INFO  InventoryScreen_Locators:96 - Enter the Zipcode as 534330
+2022-12-20 15:42:25 INFO  InventoryTestcases:58 - Click on checkout
+2022-12-20 15:42:26 INFO  InventoryScreen_Locators:102 - click on continue button
+2022-12-20 15:42:26 INFO  InventoryScreen_Locators:108 - Click on finshorder button
+2022-12-20 15:42:28 INFO  InventoryTestcases:62 - Click on finish order
+2022-12-20 15:42:28 INFO  InventoryTestcases:64 - Inventory Test closed
+2022-12-20 15:42:28 INFO  LogoutTestcases:16 - Logout Testcase Started
+2022-12-20 15:42:28 INFO  LogoutScreen_Locators:31 - Click on the MenuIcon
+2022-12-20 15:42:30 INFO  LogoutScreen_Locators:39 - Click on the Logout button
+2022-12-20 15:42:32 INFO  LoginTestcases:98 - Closing the tabs
+2022-12-20 15:42:37 INFO  LoginTestcases:74 - EdgeBrowser Launched
+2022-12-20 15:42:38 INFO  LoginTestcases:22 - URL Launched
+2022-12-20 15:42:38 INFO  LoginTestcases:49 - Enter invalid username
+2022-12-20 15:42:38 INFO  LoginScreen_Locators:43 - Entering the invalid username
+2022-12-20 15:42:40 INFO  LoginTestcases:52 - Enter valid password
+2022-12-20 15:42:40 INFO  LoginScreen_Locators:51 - Password textbox
+2022-12-20 15:42:42 INFO  LoginTestcases:55 - Click on login button
+2022-12-20 15:42:42 INFO  LoginScreen_Locators:66 - click on login button
+2022-12-20 15:42:42 INFO  LoginScreen_Locators:72 - Error message should be displayed
+2022-12-20 15:42:43 INFO  LoginScreen_Locators:77 - Epic sadface: Username and password do not match any user in this service
+2022-12-20 15:42:43 INFO  LoginTestcases:71 - Enter valid username
+2022-12-20 15:42:43 INFO  LoginScreen_Locators:35 - Username Textbox
+2022-12-20 15:42:45 INFO  LoginTestcases:74 - Enter invalid password
+2022-12-20 15:42:45 INFO  LoginScreen_Locators:59 - Entering the invalid password
+2022-12-20 15:42:47 INFO  LoginTestcases:77 - Click on login button
+2022-12-20 15:42:47 INFO  LoginScreen_Locators:66 - click on login button
+2022-12-20 15:42:47 INFO  LoginScreen_Locators:72 - Error message should be displayed
+2022-12-20 15:42:47 INFO  LoginScreen_Locators:77 - Epic sadface: Username and password do not match any user in this service
+2022-12-20 15:42:47 INFO  LoginTestcases:34 - Enter valid username
+2022-12-20 15:42:47 INFO  LoginScreen_Locators:35 - Username Textbox
+2022-12-20 15:42:47 INFO  LoginTestcases:36 - Enter valid password
+2022-12-20 15:42:47 INFO  LoginScreen_Locators:51 - Password textbox
+2022-12-20 15:42:47 INFO  LoginTestcases:38 - Click on login button
+2022-12-20 15:42:47 INFO  LoginScreen_Locators:66 - click on login button
+2022-12-20 15:42:47 INFO  LoginTestcases:93 - https://www.saucedemo.com/inventory.html
+2022-12-20 15:42:47 INFO  LoginTestcases:95 - https://www.saucedemo.com/inventory.html
+2022-12-20 15:42:47 INFO  LoginTestcases:97 - Both are same so testclass passed
+2022-12-20 15:42:47 INFO  InventoryTestcases:20 - Inventory Test started
+2022-12-20 15:42:47 INFO  InventoryScreen_Locators:47 - clicked on bags
+2022-12-20 15:42:47 INFO  InventoryTestcases:22 - click on backpack item
+2022-12-20 15:42:49 INFO  InventoryScreen_Locators:53 - Item add to cart
+2022-12-20 15:42:51 INFO  InventoryScreen_Locators:59 - Goback to the products page
+2022-12-20 15:42:51 INFO  InventoryTestcases:28 - goback to the products page
+2022-12-20 15:42:53 INFO  InventoryScreen_Locators:65 - click on the T-Shirt
+2022-12-20 15:42:53 INFO  InventoryTestcases:39 - click on T-Shirt item
+2022-12-20 15:42:55 INFO  InventoryScreen_Locators:71 - click on the T-Shirt cart
+2022-12-20 15:42:58 INFO  InventoryScreen_Locators:77 - click on the cart icon
+2022-12-20 15:43:00 INFO  InventoryTestcases:53 - Click on Cart Icon
+2022-12-20 15:43:00 INFO  InventoryScreen_Locators:83 - Click on the checkout button
+2022-12-20 15:43:02 INFO  InventoryScreen_Locators:90 - Enter the firstname as Swamy
+2022-12-20 15:43:02 INFO  InventoryScreen_Locators:93 - Enter the lastname is Chittidi
+2022-12-20 15:43:02 INFO  InventoryScreen_Locators:96 - Enter the Zipcode as 534330
+2022-12-20 15:43:04 INFO  InventoryTestcases:58 - Click on checkout
+2022-12-20 15:43:04 INFO  InventoryScreen_Locators:102 - click on continue button
+2022-12-20 15:43:04 INFO  InventoryScreen_Locators:108 - Click on finshorder button
+2022-12-20 15:43:06 INFO  InventoryTestcases:62 - Click on finish order
+2022-12-20 15:43:06 INFO  InventoryTestcases:64 - Inventory Test closed
+2022-12-20 15:43:06 INFO  LogoutTestcases:16 - Logout Testcase Started
+2022-12-20 15:43:06 INFO  LogoutScreen_Locators:31 - Click on the MenuIcon
+2022-12-20 15:43:08 INFO  LogoutScreen_Locators:39 - Click on the Logout button
+2022-12-20 15:43:10 INFO  LoginTestcases:98 - Closing the tabs
